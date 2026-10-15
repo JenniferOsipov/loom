@@ -37,3 +37,4 @@ Notes and usage details for loom.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
